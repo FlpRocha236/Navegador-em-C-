@@ -83,6 +83,10 @@ g++ mainNav.cpp -o navegador
 /projeto-navegador
 ├── mainNav.cpp       // Arquivo principal com o código-fonte
 ├── README.md         // Documentação do projeto
+├── navegador.exe         // Arquivo executável do projeto
+├── navegador.dev         // Arquivo de compilação do projeto
+├── navegador.layout         // Layout de interface utilizado no DevC++
+├── mainNav.o         // Arquivo objeto do compilador
 ```
 
 ---
